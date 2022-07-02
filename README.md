@@ -1,6 +1,12 @@
 # MakeYourBot
 a discord bot to build your own discord bot !
 
+# IMPORTANT
+
+> its a beta so sorry for many bugs :'(
+
+# Preview
+
 # Author
 
 > made by me
